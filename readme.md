@@ -82,9 +82,11 @@ custom:
     localDir: uploadData
 ```
 
-and install plugin
+and install plugin in terminal
 
+```bash
 npm i --save serverless-s3-sync
+```
 
 your serverless.yaml file so far will look like this
 
